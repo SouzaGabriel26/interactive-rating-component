@@ -1,0 +1,7 @@
+.feedback {
+  color:  hsl(25, 97%, 53%, 0.7);
+  background: #2b2d32;
+  width: 70%;
+  border-radius: 40px;
+  margin: 1.6rem auto;
+}

@@ -1,0 +1,9 @@
+.box-model {
+  width: 20rem;
+  heigt: 20rem;
+  padding: 1.6rem;
+
+  border-radius: 35px;
+
+  background: #1d242e;
+}

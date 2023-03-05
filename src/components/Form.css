@@ -1,0 +1,60 @@
+
+.form {
+  text-align: left;
+}
+
+.star {
+  padding: 1rem;
+  background: #272e38;
+  border-radius: 40px;
+}
+
+.description {
+  margin-bottom: 2rem;
+}
+
+.rating-buttons {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+
+  width: 90%;
+  margin-bottom: 1.8rem;
+}
+
+
+button[type=button] {
+  padding: 14px 16px;
+  border-radius: 50%;
+  background: #262f38;
+  color: #7c848f;
+}
+
+button[type=button]:hover {
+  background: #7c8798;
+  color: white;
+}
+
+button[type=button]:focus {
+  background: hsl(25, 97%, 53%);
+  color: white;
+}
+
+button[type=submit] {
+  display: flex;
+  justify-content: center;
+  width: 90%;
+  margin: 0 auto;
+  padding: 1rem;
+  border-radius: 30px;
+  background: hsl(25, 97%, 53%);
+  color: white;
+  letter-spacing: 2px;
+  font-weight: bold;
+}
+
+button[type=submit]:hover {
+  color:hsl(25, 97%, 53%);
+  background: white;
+}
+
